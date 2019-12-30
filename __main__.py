@@ -1,4 +1,4 @@
-# QR Code Generator
+# Date Format Converter
 # Copyright (C) 2019 Vũ Đắc Hoàng Ân
 #
 # This program is free software: you can redistribute it and/or modify
